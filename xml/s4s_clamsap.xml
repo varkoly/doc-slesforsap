@@ -251,7 +251,7 @@ Active: active (running) since Tue 2017-04-11 10:33:03 UTC; 24h ago
   </procedure>
  </sect1>
  <sect1 xml:id="sec-clamsap-changedir">
-  <title>Changing default localation of virus definition</title>
+  <title>Configuring the default location of virus definitions</title>
   <para>
    By default, &clamav; expects the virus definitions to be located in <filename
     class="directory">/var/lib/clamsap</filename>.
@@ -268,7 +268,7 @@ Active: active (running) since Tue 2017-04-11 10:33:03 UTC; 24h ago
    </step>
    <step>
     <para>
-     Focus the <literal>CLAMSAPVSI</literal> group. To change it, use a left mouse click.
+     Select the <literal>CLAMSAPVSI</literal> group.
     </para>
    </step>
    <step>
